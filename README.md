@@ -3,11 +3,11 @@ Prezados(as),
 Ao realizar o clone, executar os seguintes comandos no terminal
 
 ## 💻 Rodando local
-1) Esse comando baixa todas as dependências (EF Core, Swagger etc.):
+1) Restaurar pacotes:
 ```bash
 dotnet restore
 ```
-2) Rode a API:
+2) Rodar a API:
 ```bash
 dotnet run --project Simulacao.Api
 ```
